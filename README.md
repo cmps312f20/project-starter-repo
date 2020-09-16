@@ -1,1 +1,1 @@
-# project-starter-repo
+# Repository for CMPS 312 project. Each phase should be in its own sub-folder (i.e., project-phase1 and  project-phase2)
